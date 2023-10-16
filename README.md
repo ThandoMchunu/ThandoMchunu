@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThandoMchunu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++ for my first in computer science undergrad
+- 🌱 I’m currently learning c++ for my year first in computer science undergrad
 - 💞️ I’m looking to collaborate on code
 - 📫 How to reach me via email
 
